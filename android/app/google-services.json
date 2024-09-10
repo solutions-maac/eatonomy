@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "244012276431",
+    "project_id": "eatonomy-5567c",
+    "storage_bucket": "eatonomy-5567c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244012276431:android:397ddb4d7b04db4eec75ba",
+        "android_client_info": {
+          "package_name": "com.Eatonomy.eatonomy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244012276431-kl96l2fb7477et8i6s0o9imcrdr2900v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-cU-AZfiAfovbAi0SjKGEgHgOpUzGvFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244012276431-kl96l2fb7477et8i6s0o9imcrdr2900v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "244012276431-0u7hg3ncruj94vf9ahjtn65fhoofvstm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Eatonomy.Eatonomychef"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,22 @@
+<svg width="62" height="62" viewBox="0 0 62 62" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Position">
+<g id="Fond/Big/Longhole">
+<g id="Background-Blur" filter="url(#filter0_b_465_18539)">
+<rect x="1" y="1" width="60" height="60" rx="30" fill="#EA2727" fill-opacity="0.01"/>
+</g>
+<rect id="Color-or-Image" x="1" y="1" width="60" height="60" rx="30" fill="#EA2727" fill-opacity="0.1" stroke="#EA2727" stroke-width="0.5" stroke-linecap="round" stroke-dasharray="25.5 25.5"/>
+</g>
+<g id="Position_2">
+<rect id="Rectangle" x="26.9988" y="23.4988" width="7.75526" height="7.75526" rx="3.87763" fill="white"/>
+<rect id="Rectangle_2" x="29.4988" y="25.9988" width="2.73715" height="2.73715" rx="1.36858" fill="#EA2727"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_b_465_18539" x="-12.5914" y="-12.5914" width="87.1828" height="87.1828" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="6.7957"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_465_18539"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_465_18539" result="shape"/>
+</filter>
+</defs>
+</svg>

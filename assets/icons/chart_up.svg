@@ -1,0 +1,13 @@
+<svg width="41" height="20" viewBox="0 0 41 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="_Chart">
+<path id="Background base" d="M40 1C33.6637 1.4874 33.2714 13.1561 27 14.5C21.8285 15.6082 19.2098 9.31764 14 10C8.34917 10.7401 6.54089 17.2951 1 19H40V1Z" fill="#ECFDF3"/>
+<path id="Background gradient" d="M40 1C33.6637 1.4874 33.2714 13.1561 27 14.5C21.8285 15.6082 19.2098 9.31764 14 10C8.34917 10.7401 6.54089 17.2951 1 19H40V1Z" fill="url(#paint0_linear_2233_9224)"/>
+<path id="Line" d="M1 19C6.54089 17.2951 8.34917 10.7401 14 10C19.2098 9.31764 21.8285 15.6082 27 14.5C33.2714 13.1561 33.6638 1.4874 40 1" stroke="#12B76A" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_2233_9224" x1="20.5" y1="1" x2="20.5" y2="19" gradientUnits="userSpaceOnUse">
+<stop offset="0.641167" stop-color="white" stop-opacity="0"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+</defs>
+</svg>
