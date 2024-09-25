@@ -2,7 +2,6 @@ import 'dart:convert';
 import 'dart:io';
 
 import 'package:camera/camera.dart';
-import 'package:device_preview/device_preview.dart';
 import 'package:easy_localization/easy_localization.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
@@ -161,12 +160,7 @@ void main() async{
   ));
 
   runApp(
-      DevicePreview(
-          enabled: false,
-          builder: (BuildContext context) {
-            return MyApp(router: AppRouter());
-          },
-      )
+      MyApp(router: AppRouter())
   );
 }
 
@@ -200,7 +194,7 @@ class MyApp extends StatelessWidget {
                     fontFamily: "Sora",
                   appBarTheme: AppBarTheme(
                       elevation: 0,
-                      backgroundColor: whiteBackground,
+                      // backgroundColor: whiteBackground,
                       centerTitle: true,
                       iconTheme: IconThemeData(
                           color: textColor,
